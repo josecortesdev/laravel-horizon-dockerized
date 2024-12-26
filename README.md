@@ -89,6 +89,18 @@ To run the unit tests, follow these steps:
 
 These steps will allow you to run the unit tests to verify that the `SendEmailJob` works correctly.
 
+## Accessing the Database
+
+To access the MySQL database, use the following credentials:
+
+- **Host**: `localhost`
+- **Port**: `3307`
+- **Database**: `laravel`
+- **Username**: `laravel`
+- **Password**: `secret`
+
+You can use a database client like MySQL Workbench, HeidiSQL, or phpMyAdmin to connect to the database.
+
 
 ## Suggestions
 Suggestions are welcome. Please write to me at josecortesdev@gmail.com
